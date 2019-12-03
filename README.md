@@ -38,7 +38,7 @@ To build and run this app locally you will need a few things:
 # Getting started
 - Clone the repository
 ```
-git clone --depth=1 https://github.com/Microsoft/TypeScript-Node-Starter.git <project_name>
+git clone --depth=1 https://<bitbucket_username>@bitbucket.org/mobixdev/node-vanilla.git <project_name>
 ```
 - Install dependencies
 ```
