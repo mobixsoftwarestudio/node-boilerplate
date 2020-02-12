@@ -42,14 +42,13 @@ export function setVersion(version: any): any;
  * Fairly incomplete. I only added some commonly used fields.
  */
 export type FacebookUser = {
-    id: string,
-    name: string,
-    email: string,
-    first_name: string,
-    last_name: string,
-    gender: string,
-    link: string,
-    locale: string,
-    timezone: number
+  id: string;
+  name: string;
+  email: string;
+  first_name: string;
+  last_name: string;
+  gender: string;
+  link: string;
+  locale: string;
+  timezone: number;
 };
-
